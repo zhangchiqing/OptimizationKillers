@@ -1,0 +1,4 @@
+OptimizationKillers
+===================
+
+NodeJS Anti-Patterns
